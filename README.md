@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rickoroxd
-- 👀 I’m interested in Network
-- 🌱 I’m currently learning Python and Java
+- 👀 I’m interested in Network & Sercurity
+- 🌱 I’m currently learning Python 
 - 🔥 I like C & C++
 
 <!---
