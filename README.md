@@ -30,7 +30,7 @@
   - 🕵️‍♂️ Capture The Flag (PicoCTF, TryHackMe)
   - 🧰 Tools: `nmap`, `netcat`, `dig`, `hydra`
 - 🔐 **Encryption/Decryption**
-  - 🔗 [Encryption_Decryption Repository](https://github.com/Rickoroxd/Encryption_Decryption): Caesar Cipher, XOR, custom encoding
+  - 🔗 [Encryption_Decryption Repository](https://github.com/Rickoroxd/Encryption_Decryption): Caesar Cipher
 - 💻 **Programming for Cyber**
   - 🔧 C++ and Python scripts for encoding, brute force, and automation
 
