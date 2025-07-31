@@ -29,4 +29,5 @@
 </p>
 
 - 🔐 Capture The Flag (CTF) 
-- 🔎 Port Scanning, Recon (nmap, netcat, dig)  
+- 🔎 Port Scanning, Recon (nmap, netcat, dig)
+- 🔑Encryption and Decryption
