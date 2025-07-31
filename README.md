@@ -28,6 +28,6 @@
   <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="500" alt="Hacker animation">
 </p>
 
-- 🔐 Capture The Flag (CTF) 
-- 🔎 Port Scanning, Recon (nmap, netcat, dig)
-- 🔑Encryption and Decryption
+- 🔐Capture The Flag (CTF) 
+- 🔎Port Scanning, Recon (nmap, netcat, dig)
+- 🔑[Encryption_Decryption](https://github.com/Rickoroxd/Encryption_Decryption)
