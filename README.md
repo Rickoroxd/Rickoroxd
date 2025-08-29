@@ -31,6 +31,7 @@
   - 🧰 Tools: `nmap`, `netcat`, `dig`, `hydra`
 - 🔐 **Encryption/Decryption**
   - 🔗 [Encryption_Decryption Repository](https://github.com/Rickoroxd/Encryption_Decryption): Caesar Cipher
+  - [Port_Scanner](https://github.com/Rickoroxd/PORT_SCANNER): Simple Port_Scanner
 - 💻 **Programming for Cyber**
   - 🔧 C++ and Python scripts for encoding, brute force, and automation
 
