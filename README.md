@@ -12,10 +12,11 @@
   <img src="https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript" />
   <img src="https://img.shields.io/badge/-C-000?&logo=C" />
   <img src="https://img.shields.io/badge/-C++-000?&logo=C%2B%2B&logoColor=00599C" />
-  <img src="https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396" />
+  <img src="https://img.shields.io/badge/-Java-000?&logo=openjdk&logoColor=F89820" />
   <img src="https://img.shields.io/badge/-SQL-000?&logo=MySQL" />
   <img src="https://img.shields.io/badge/-Linux-000?&logo=Linux" />
 </p>
+
 ---
 
 ### 🛡️ Cybersecurity Projects
