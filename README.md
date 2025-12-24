@@ -36,5 +36,6 @@
 ### 🌱 Currently Learning
   - 🔥 Everything
     - Ambitious is the best
+  - i'm noob
 ---
 
