@@ -27,7 +27,7 @@
 
 - 🧪 **CTFs & Challenges**
   - 🕵️‍♂️ Capture The Flag (PicoCTF, TryHackMe,DropCTF)
-  - 🧰 Tools: `nmap`, `netcat`, `dig`, `hydra`
+  - 🧰 Write-Up: https://github.com/Rickoroxd/my_write_ups.git
 - 💻 **Programming for Cyber**
   - 🔧 C++ and Python scripts for encoding, brute force, and automation
 
