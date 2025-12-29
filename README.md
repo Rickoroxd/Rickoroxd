@@ -45,3 +45,8 @@
 - 🔍 **Reverse Engineering:** Using **GDB (pwndbg)** and **Ghidra** to deconstruct binaries.
 
 ---
+<p align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Rickoroxd&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+
+</p> คือ
