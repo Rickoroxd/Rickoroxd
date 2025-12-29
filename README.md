@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <strong>🛡️ Aspiring Pwn Researcher | 🚀 Backend Developer | 🐧 Low-Level Enthusiast</strong>
+  <strong>🛡️ Newbie CTF | 🚀 Backend Developer | 🐧 Low-Level Enthusiast</strong>
 </p>
 
 ---
@@ -46,7 +46,5 @@
 
 ---
 <p align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=Rickoroxd&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-
-</p> คือ
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rickoroxd&theme=tokyonight" alt="GitHub Summary Card" />
+</p>
